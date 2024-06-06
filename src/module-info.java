@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Karas
+ *
+ */
+module osProject {
+}
